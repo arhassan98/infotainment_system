@@ -97,7 +97,7 @@ If the API key is not set or invalid, the app will show a clear message and guid
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/arhassan98/infotainment_system.git
    cd infotainment_system
    ```
 
